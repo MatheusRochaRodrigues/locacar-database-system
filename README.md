@@ -28,6 +28,7 @@ The project ensures **data consistency and integrity** through database constrai
 
 # Main Interface
 <img width="1544" height="742" alt="Screenshot_69" src="https://github.com/user-attachments/assets/297f2a15-8fa6-4c8d-b81d-4a4be39382f7" />
+
  
 <img width="1513" height="723" alt="Screenshot_68" src="https://github.com/user-attachments/assets/1d4e38b9-1b2c-416e-b26b-f45e45f30613" />
  
@@ -185,6 +186,7 @@ Total = 740
 This project was developed for the **Database Laboratory course** at the Federal University of Mato Grosso (UFMT).
 
 It demonstrates the integration between **database design, SQL programming, and application development**.
+
 
 
 
