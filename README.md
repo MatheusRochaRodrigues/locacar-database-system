@@ -43,14 +43,12 @@ CLIENT
 CAR
 ALUGA (RENTAL)
 ```
-
-EER Diagram
+ 
 <img width="1367" height="693" alt="Screenshot_66" src="https://github.com/user-attachments/assets/e52194db-5581-4e25-9ac3-7179d55ae3cd" />
 
-# Conceptual Model (EER)
+# Relational Model Diagram
 After mapping the EER model to the relational model, the schema was defined as follows.
-
-Relational Diagram  
+ 
 <img width="1387" height="640" alt="Screenshot_67" src="https://github.com/user-attachments/assets/bcf8f337-a224-4194-b972-63b5c110d68b" />
 
 # Database Implementation
@@ -187,5 +185,6 @@ Total = 740
 This project was developed for the **Database Laboratory course** at the Federal University of Mato Grosso (UFMT).
 
 It demonstrates the integration between **database design, SQL programming, and application development**.
+
 
 
