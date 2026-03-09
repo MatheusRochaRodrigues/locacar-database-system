@@ -97,14 +97,12 @@ CAR
 ALUGA (RENTAL)
 ```
 EER Diagram
-
 <img width="1367" height="693" alt="Screenshot_66" src="https://github.com/user-attachments/assets/e52194db-5581-4e25-9ac3-7179d55ae3cd" />
 
 # Conceptual Model (EER)
-
 After mapping the EER model to the relational model, the schema was defined as follows.
 
-Relational Diagram
+Relational Diagram  
 <img width="1387" height="640" alt="Screenshot_67" src="https://github.com/user-attachments/assets/bcf8f337-a224-4194-b972-63b5c110d68b" />
 
 
@@ -239,48 +237,9 @@ Total = 740
 
 ---
 
-# Project Structure
-
-```
-locacar-system
-│
-├── database
-│   ├── schema.sql
-│   ├── triggers.sql
-│   └── procedures.sql
-│
-├── src
-│   ├── main.py
-│   ├── database_connection.py
-│   ├── client_controller.py
-│   ├── car_controller.py
-│   └── rental_controller.py
-│
-├── interface
-│   └── gui.py
-│
-├── report
-│   └── Relatorio-LabBD.pdf
-│
-└── README.md
-```
-
----
-
-# Example Data
-
-The database contains:
-
-* **10 registered clients**
-* **20 registered vehicles**
-* multiple rental transactions
-
-These records allow the system to be demonstrated immediately.
-
----
-
 # Educational Context
 
 This project was developed for the **Database Laboratory course** at the Federal University of Mato Grosso (UFMT).
 
 It demonstrates the integration between **database design, SQL programming, and application development**.
+
